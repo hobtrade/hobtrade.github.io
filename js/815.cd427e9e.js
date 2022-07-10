@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktradeui"]=self["webpackChunktradeui"]||[]).push([[815],{3815:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(9812);const r={class:"about"},a=(0,u._)("h1",null,"Setting Secure",-1),c=[a];function i(e,n){return(0,u.wg)(),(0,u.iD)("div",r,c)}var s=t(8998);const d={},f=(0,s.Z)(d,[["render",i]]);var l=f}}]);
+//# sourceMappingURL=815.cd427e9e.js.map

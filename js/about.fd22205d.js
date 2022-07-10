@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktradeui"]=self["webpackChunktradeui"]||[]).push([[443],{2133:function(n,u,t){t.r(u),t.d(u,{default:function(){return f}});var a=t(9812);const e={class:"about"},r=(0,a._)("h1",null,"This is an about page",-1),s=[r];function i(n,u){return(0,a.wg)(),(0,a.iD)("div",e,s)}var c=t(8998);const o={},d=(0,c.Z)(o,[["render",i]]);var f=d}}]);
+//# sourceMappingURL=about.fd22205d.js.map
